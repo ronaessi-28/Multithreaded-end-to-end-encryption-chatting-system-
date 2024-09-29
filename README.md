@@ -47,18 +47,7 @@ This Java-based chat application allows two clients to communicate securely via 
 
 7. Start chatting securely!
 
-## Screenshots
-- Server console:
-  ![](screenshots/img1.png)
 
-- Client 1 interface:
-  ![](screenshots/img2.png)
-
-- Client 2 interface:
-  ![](screenshots/img3.png)
-
-- Server console after a conversation:
-  ![](screenshots/img4.png)
 
 ## How It Works
 This project uses socket programming for communication between clients and RSA encryption to secure messages. Each client connects to the server, which facilitates message exchange without the ability to decrypt the content.
