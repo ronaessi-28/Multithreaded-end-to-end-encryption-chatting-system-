@@ -22,8 +22,7 @@ This Java-based chat application allows two clients to communicate securely via 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/Multithreaded-Encrypted-Chat.git
-   ```
+   git clone https://github.com/ronaessi-28/Multithreaded-end-to-end-encryption-chatting-system-.git
    
 2. Navigate to the project folder:
    ```bash
