@@ -26,8 +26,7 @@ This Java-based chat application allows two clients to communicate securely via 
    
 2. Navigate to the project folder:
    ```bash
-   cd Multithreaded-Encrypted-Chat
-   ```
+   cd Multithreaded-end-to-end-encryption-chatting-system-
 
 3. Compile all Java files:
    ```bash
