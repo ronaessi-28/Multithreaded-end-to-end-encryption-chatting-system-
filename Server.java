@@ -1,13 +1,4 @@
 
----
-
-### 2. `Server.java`
-
-This file contains the main server class which handles connections from multiple clients using multithreading.
-
-#### Example Code for `Server.java`:
-
-```java
 import java.io.*;
 import java.net.*;
 
